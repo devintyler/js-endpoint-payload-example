@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Examples for Syncano Endpoints in JS",
   "main": "payloadTrigger.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/devintyler/js-endpoint-payload-example.git"
@@ -18,6 +16,7 @@
   "homepage": "https://github.com/devintyler/js-endpoint-payload-example#readme",
   "dependencies": {
     "http": "0.0.0",
-    "request": "^2.67.0"
+    "request": "^2.67.0",
+    "syncano": "^0.4.7"
   }
 }
